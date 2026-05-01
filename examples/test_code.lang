@@ -1,0 +1,7 @@
+dec limit = 10;
+dec n = 1;
+
+until (n == limit) {
+    display n;
+    n = n + 1;
+}
