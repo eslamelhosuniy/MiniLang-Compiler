@@ -1,2 +1,5 @@
 /output.asm
 /output.exe
+**/__pycache__/
+*.py[cod]
+*$py.class
